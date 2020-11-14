@@ -7,7 +7,7 @@
 
 # Requisitos
 
-- Haber trabajado con el Work
+- Haber trabajado con el Prework y el Work
 
 # Desarrollo
 
