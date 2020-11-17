@@ -22,3 +22,7 @@ Estudiar algunas distribuciones de probabilidad muy comunes y útiles, obtener e
 - [Reto 1](https://github.com/jennerfr/Sesion_4/tree/main/Reto_01) 
 - [Reto 2](https://github.com/jennerfr/Sesion_4/tree/main/Reto_02) 
 - [Reto 3](https://github.com/jennerfr/Sesion_4/tree/main/Reto_03) 
+
+#### Postwork de la sesión 4
+
+- [Postwork](https://github.com/jennerfr/Sesion_4/tree/main/Postwork)
